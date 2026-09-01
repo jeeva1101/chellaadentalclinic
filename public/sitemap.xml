@@ -1,38 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>/</loc>
+    <loc>https://chellaadentalclinic.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
   <url>
-    <loc>/about-clinic</loc>
+    <loc>https://chellaadentalclinic.com/about-clinic</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>/about-doctor</loc>
+    <loc>https://chellaadentalclinic.com/about-doctor</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>/services</loc>
+    <loc>https://chellaadentalclinic.com/services</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>/testimonials</loc>
+    <loc>https://chellaadentalclinic.com/testimonials</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>/faq</loc>
+    <loc>https://chellaadentalclinic.com/faq</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>/contact</loc>
+    <loc>https://chellaadentalclinic.com/contact</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+
 </urlset>
