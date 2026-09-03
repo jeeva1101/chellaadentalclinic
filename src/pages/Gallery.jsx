@@ -12,7 +12,7 @@ import clinic5 from "../assets/clinicimages/clinic5.jpeg";
 import clinic6 from "../assets/clinicimages/clinic6.jpeg";
 
 /* ── Treatment / Before & After Images ── */
-import ti1 from "../assets/treatmentimages/treatmentimage1.png";
+import ti1 from "../assets/treatmentimages/treatmentimage1.jpeg";
 import ti2 from "../assets/treatmentimages/treatmentimage2.jpeg";
 import ti3 from "../assets/treatmentimages/treatmentimage3.jpeg";
 import ti4 from "../assets/treatmentimages/treatmentimage4.jpeg";
