@@ -71,10 +71,10 @@ export function Home() {
     <>
       <Hero />
       <TrustBar />
-      <WhyUs />
       <Stats />
       <ClinicVideo />
       <FeaturedTreatments />
+      <WhyUs />
       <Technology />
       <Journey />
       <TestimonialsPreview />
